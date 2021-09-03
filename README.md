@@ -1,2 +1,2 @@
-# CLASS-35
-FIREBASE,SYNCHRONOUS BALL
+# C35_SynchronousBallMoment_StudentActivity
+Student Activity
